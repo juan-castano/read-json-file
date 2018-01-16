@@ -1,3 +1,17 @@
 {
-    "name": "Avemaría"
+    "name": "Avemaría",
+    "petList": [
+        {
+            "name": "Amparito",
+            "age": 12
+        },
+        {
+            "name": "Casimiro",
+            "age": 9
+        },
+        {
+            "name": "Aureliano",
+            "age": 2
+        }
+    ]
 }
